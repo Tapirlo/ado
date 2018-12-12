@@ -1,0 +1,11 @@
+C:\Users\Allievo 8\source\repos\Tennis\Tennis\bin\Debug\netcoreapp2.0\Tennis.dll
+C:\Users\Allievo 8\source\repos\Tennis\Tennis\bin\Debug\netcoreapp2.0\Tennis.deps.json
+C:\Users\Allievo 8\source\repos\Tennis\Tennis\bin\Debug\netcoreapp2.0\Tennis.runtimeconfig.json
+C:\Users\Allievo 8\source\repos\Tennis\Tennis\bin\Debug\netcoreapp2.0\Tennis.runtimeconfig.dev.json
+C:\Users\Allievo 8\source\repos\Tennis\Tennis\obj\Debug\netcoreapp2.0\Tennis.csproj.CoreCompileInputs.cache
+C:\Users\Allievo 8\source\repos\Tennis\Tennis\obj\Debug\netcoreapp2.0\Tennis.AssemblyInfoInputs.cache
+C:\Users\Allievo 8\source\repos\Tennis\Tennis\obj\Debug\netcoreapp2.0\Tennis.AssemblyInfo.cs
+C:\Users\Allievo 8\source\repos\Tennis\Tennis\obj\Debug\netcoreapp2.0\Tennis.dll
+C:\Users\Allievo 8\source\repos\Tennis\Tennis\obj\Debug\netcoreapp2.0\Tennis.pdb
+C:\Users\Allievo 8\source\repos\Tennis\Tennis\bin\Debug\netcoreapp2.0\Tennis.pdb
+C:\Users\Allievo 8\source\repos\Tennis\Tennis\obj\Debug\netcoreapp2.0\Tennis.csprojAssemblyReference.cache
